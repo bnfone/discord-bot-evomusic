@@ -44,7 +44,7 @@
     "@types/tough-cookie": "^4.0.5",
     "braces": "^3.0.3",
     "cz-conventional-changelog": "^3.0.1",
-    "nodemon": "^3.1.4",
+    "nodemon": "^3.1.9",
     "prettier": "^3.3.3",
     "ts-node": "^10.9.2"
   },
