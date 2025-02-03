@@ -34,7 +34,7 @@
     "string-progressbar": "^1.0.4",
     "tar": "^7.4.3",
     "ws": "^8.18.0",
-    "youtube-dl-exec": "^3.0.10",
+    "youtube-dl-exec": "^3.0.15",
     "youtube-sr": "^4.3.11"
   },
   "devDependencies": {
