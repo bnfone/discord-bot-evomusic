@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@discordjs/voice": "^0.18.0",
-    "@distube/ytdl-core": "^4.16.8",
+    "@distube/ytdl-core": "^4.16.10",
     "array-move": "^3.0.0",
     "cheerio": "^1.0.0",
     "cross-spawn": "^7.0.6",
