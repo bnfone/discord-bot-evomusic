@@ -41,7 +41,7 @@
   "devDependencies": {
     "@types/i18n": "^0.13.12",
     "@types/js-yaml": "^4.0.9",
-    "@types/node": "^22.14.0",
+    "@types/node": "^22.15.21",
     "@types/tough-cookie": "^4.0.5",
     "braces": "^3.0.3",
     "cz-conventional-changelog": "^3.0.1",
